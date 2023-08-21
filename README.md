@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 👨‍💻 All of my projects are available at [https://github.com/S4nxez](https://github.com/S4nxez)
+- 👨‍💻 All of my projects are available [here](https://github.com/S4nxez?tab=repositories)
 
 - 💬 Ask me about **Java, testing and Python.**
 
