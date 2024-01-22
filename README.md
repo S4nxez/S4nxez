@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
 <h3 align="center">A passionate backend developer from Spain</h3>
 
-- 🔭 I’m currently working on [short_creator](https://github.com/S4nxez/short_creator)
+- 🔭 I’m currently working on [Campus 42](https://github.com/S4nxez/campus42)
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **C and Java**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/S4nxez?tab=repositories)
 
-- 💬 Ask me about **Java, testing and Python.**
+- 💬 Ask me about **Java, testing, C and Python.**
 
 - 📫 How to reach me **s4nxez@gmail.com**
 
