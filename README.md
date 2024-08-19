@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C and Java**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/S4nxez?tab=repositories)
-
 - 💬 Ask me about **Java, testing, C and Python.**
 
 - 📫 How to reach me **s4nxez@gmail.com**
