@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
 <h3 align="center">A passionate backend developer from Spain</h3>
 
-- 🔭 I’m currently working on [Mensajería Secreta]([https://github.com/S4nxez/campus42](https://github.com/S4nxez/MensajeriaSecreta/))
+- 🔭 I’m currently working on [Mensajería Secreta](https://github.com/S4nxez/MensajeriaSecreta/)
 
 - 🌱 I’m currently learning **C and Java**
 
